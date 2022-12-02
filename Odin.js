@@ -15,4 +15,9 @@ console.log(message);
 let userName = 'herryayo';
 console.log(userName);
 let $ = 4;
-console.log($);
+let _ = 5;
+console.log($ + _);
+let имя = '...';
+let 我 = '...';
+console.log(我);
+
